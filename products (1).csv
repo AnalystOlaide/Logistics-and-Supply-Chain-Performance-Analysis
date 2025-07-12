@@ -1,0 +1,16 @@
+Product ID,Product Name,Category,SKU,Supplier ID,Unit Price
+P001,Wireless Earbuds,Consumer Electronics,CON-100,S003,14.32
+P002,Phone Case,Mobile Accessories,MOB-101,S003,77.45
+P003,Smart Meter,Utility Equipment,UTI-102,S003,58.19
+P004,Barcode Scanner,Logistics Equipment,LOG-103,S002,103.29
+P005,Forklift Battery,Warehouse Equipment,WAR-104,S001,14.14
+P006,ATM Card Reader,Banking Equipment,BAN-105,S005,129.92
+P007,Blood Pressure Monitor,Medical Devices,MED-106,S003,47.34
+P008,Infrared Thermometer,Medical Equipment,MED-107,S005,113.22
+P009,Router,Network Devices,NET-108,S005,143.01
+P010,LED Ring Light,Photography Equipment,PHO-109,S004,90.25
+P011,SIM Card,Mobile Telecom,MOB-110,S002,33.45
+P012,Face Mask (Surgical),Health Supplies,HEA-111,S004,86.6
+P013,Shipping Pallets,Packaging Materials,PAC-112,S005,140.22
+P014,POS Machine,Financial Devices,FIN-113,S002,96.87
+P015,Inverter Battery,Energy Storage,ENE-114,S002,84.11

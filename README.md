@@ -32,9 +32,7 @@ The business generated a total revenue of 57,152 dollars across 2,000 orders, mo
 
 This pattern suggests changes in product mix or pricing strategies influencing monthly earnings. Notably, June's high revenue despite low volume signals a shift toward premium or higher-margin items.
 
-<img width="905" height="487" alt="image" src="https://github.com/user-attachments/assets/74cbc0a3-6058-46db-a968-0df964d3b12a" />
-
-
+<img width="901" height="483" alt="image" src="https://github.com/user-attachments/assets/9c142b54-111f-42ee-8c3c-6f0f600fa91d" />
 
 ## Insights Deep Dive
 

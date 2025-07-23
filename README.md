@@ -107,9 +107,4 @@ Delivery times were mostly consistent, with FinServe Devices being the slowest.
 * Dashboard Wireframing and Layout Design
 * Business Insight Extraction and Interpretation
 
-## How to Use This Project
 
-* Open the Excel file containing the dashboard
-* Use slicers to filter by month, warehouse, or product
-* Analyze KPIs and visual trends through Pivot Tables and charts
-* Refer to this README for business context and key takeaways

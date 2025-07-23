@@ -28,9 +28,17 @@ The dataset is organized across five primary tables:
 
 ## Executive Summary
 
-The business generated a total revenue of 57,152 dollars across 2,000 orders, moving over 101,292 units. The monthly unit volume peaked in May, while the lowest volumes occurred in February and June. However, revenue does not follow volume exactly. It peaked in April, followed by June and February, while the lowest months were March, May, and January.
+The business generated $57,152 from 2,000 orders, moving over 101,292 units. Revenue peaked in April, while unit volume was highest in May, showing a disconnect driven by pricing or product mix. June’s high revenue despite low volume suggests a shift to premium or higher-margin items.
 
-This pattern suggests changes in product mix or pricing strategies influencing monthly earnings. Notably, June's high revenue despite low volume signals a shift toward premium or higher-margin items.
+Medical Devices and Photography Equipment drove the highest revenue at $18,361 and $16,538, respectively, while Health Supplies and Banking Equipment underperformed.
+
+Port Harcourt emerged as the most efficient warehouse, leading in both delivery and order transit rates. Abuja showed the slowest fulfillment, with the highest share of pending orders. Lagos handled the most orders, indicating smaller, frequent shipments.
+
+FinServe Devices had the slowest supplier delivery time at 4.7 days, while GlobalTech Ltd. was the fastest at 4.3 days.
+
+The business appears to be optimizing fulfillment by leveraging Port Harcourt’s efficiency and shifting toward high-margin products, enhancing revenue per shipment.
+
+
 
 <img width="901" height="483" alt="image" src="https://github.com/user-attachments/assets/9c142b54-111f-42ee-8c3c-6f0f600fa91d" />
 

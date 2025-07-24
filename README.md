@@ -25,11 +25,14 @@ The dataset is organized across five primary tables:
 * Supplier
 * Warehouse
 * Product
+
+<img width="1184" height="630" alt="image" src="https://github.com/user-attachments/assets/193806b4-892f-4591-bd57-29bbcfa7c566" />
+
   
 ## Data Analysis Process
 
-* Data cleaning using Power Query
 * Data modeling using Power Pivot
+* Data cleaning using Power Query
 * KPI development and metric calculations using Pivot Tables
 * Dashboard design using wireframes and structured layout
 * Business insight extraction through trend and pattern analysis

@@ -25,7 +25,15 @@ The dataset is organized across five primary tables:
 * Supplier
 * Warehouse
 * Product
+  
+## Data Analysis Process
 
+* Data cleaning using Power Query
+* Data modeling using Power Pivot
+* KPI development and metric calculations using Pivot Tables
+* Dashboard design using wireframes and structured layout
+* Business insight extraction through trend and pattern analysis
+  
 ## Executive Summary
 
 The business generated $57,152 from 2,000 orders, moving over 101,292 units. Revenue peaked in April, while unit volume was highest in May, showing a disconnect driven by pricing or product mix. June’s high revenue despite low volume suggests a shift to premium or higher-margin items.
@@ -82,22 +90,23 @@ Delivery times were mostly consistent, with FinServe Devices being the slowest.
 
 ## Recommendations
 
-1. Optimize Abuja's warehouse to reduce pending orders.
-2. Apply Port Harcourt's operational strategies across other warehouse locations.
-3. Analyze product mix between April and June to maintain or improve revenue trends.
-4. Focus on promoting high-performing product categories such as Medical Devices and Photography Equipment.
-5. Address delivery delays with FinServe Devices by reviewing processes or adjusting supplier mix.
-6. Refine Lagos warehouse operations to support efficient processing of high-frequency, small-volume
+Optimize Abuja’s Warehouse to Reduce Pending Orders
+Investigate key causes of high pending order rates—such as staff capacity, inventory lag, and dispatch timelines—and implement targeted improvements. Set a measurable goal to reduce pending orders by 15% within the next month.
 
-   &#x20;orders.
+Leverage Port Harcourt’s Operational Strategies Across All Warehouses
+Study Port Harcourt’s workflow, staffing structure, and order fulfillment process, which led to the highest delivery and lowest pending rates. Use these insights to create a standard operations playbook and implement it in Abuja and Lagos to boost efficiency.
 
-## Data Analysis Process
+Analyze Product Mix for April–June Revenue Peaks
+Identify which SKUs and campaigns drove the revenue spike in April, June, and February. Use this analysis to replicate demand-generation strategies and refine inventory and marketing plans for upcoming quarters.
 
-* Data cleaning using Power Query
-* Data modeling using Power Pivot
-* KPI development and metric calculations using Pivot Tables
-* Dashboard design using wireframes and structured layout
-* Business insight extraction through trend and pattern analysis
+Prioritize and Promote High-Performing Product Categories
+Scale sales and marketing efforts around Medical Devices and Photography Equipment through promotions, bulk deals, or bundled offers. Ensure stock availability and sales alignment to increase their share of overall revenue.
+
+Resolve FinServe Devices’ Delivery Delays
+Audit FinServe Devices’ supply chain to pinpoint delivery bottlenecks. Consider process re-engineering, new SLAs, or replacing with more reliable vendors to reduce lead times from 4.7 days to below 4.3 days.
+
+Enhance Lagos Warehouse for High-Frequency, Small-Volume Orders
+Introduce faster picking systems or light automation to handle its high order volume (685+ orders). Improve order cycle times while maintaining accuracy and reduce operational fatigue caused by frequent dispatching.
 
 ## Tools and Skills Applied
 
